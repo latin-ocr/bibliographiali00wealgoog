@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliographiali00wealgoog_0008.png"; bbox 0 0 2962 4890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 1756 1113 1943">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 216 1756 1113 1943">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 1756 1113 1943; baseline 0.002 -53"><span class='ocrx_word' id='word_1_1' title='bbox 216 1936 222 1943; x_wconf 26' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 279 1792 742 1894; x_wconf 80' lang='lat' dir='ltr'>BIBLIOGRAPHIA</span> <span class='ocrx_word' id='word_1_3' title='bbox 794 1756 1113 1893; x_wconf 81' lang='lat' dir='ltr'><strong>LITURGICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 289 2213 1005 2557">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 289 2213 1005 2557">
+     <span class='ocr_line' id='line_1_2' title="bbox 529 2213 861 2297; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 529 2213 861 2297; x_wconf 76' lang='lat' dir='ltr'>MlssALlA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 289 2447 1005 2557; baseline -0.001 -28"><span class='ocrx_word' id='word_1_5' title='bbox 289 2552 292 2557; x_wconf 17' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 383 2449 630 2532; x_wconf 80' lang='lat' dir='ltr'>RITUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 721 2447 1005 2530; x_wconf 80' lang='lat' dir='ltr'>LATINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 505 2685 864 2773">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 505 2685 864 2773">
+     <span class='ocr_line' id='line_1_4' title="bbox 505 2685 864 2773; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 505 2685 864 2773; x_wconf 84' lang='lat' dir='ltr'><strong>IMPRESSA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1486 4890">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1486 4890">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1486 4890; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1486 4890; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
